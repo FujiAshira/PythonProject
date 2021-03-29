@@ -1,6 +1,4 @@
 import random
-from typing import List
-
 
 def Check(NameLift, Number):
     global level
